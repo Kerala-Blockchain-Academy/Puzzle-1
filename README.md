@@ -2,7 +2,7 @@
 
 ### The contract Deployed Address
  - <b>Sepolia</b>: 0x39AF971B0FAd4459d94DF4d979278f9526754A97
- - <b>Sepolia</b>: 0xDda9867Fa0664f1126D1bA5Bf44FBFA5a7AcD9F5
+ - <b>Goerli</b>: 0xDda9867Fa0664f1126D1bA5Bf44FBFA5a7AcD9F5
  
  
 ### ABI
